@@ -1,2 +1,2 @@
 # Scripts
-This is all simple script file will be
+1. LauchPad Resizer **This is all simple script file will be**
