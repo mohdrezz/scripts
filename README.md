@@ -1,4 +1,3 @@
-# Script Description
+## Script Description
 ---
-## LaunchPadResizer.scpt
-> This is all simple script file will be
+**_LaunchPadResizer.scpt_** (This script use to resize launcher in mac os x)
