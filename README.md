@@ -1,3 +1,3 @@
 ## Script Description
 ---
-**_LaunchPadResizer.scpt_** => This script use to resize launcher in mac os x
+**LaunchPadResizer.scpt** : _Use to resize launcher in mac os x_
